@@ -1,0 +1,3 @@
+These folders will contain examples and usable HTTP related scipts.
+They are sorted by creating servers/pages, interacting with servers.
+And loading/reading/displaying webpages.

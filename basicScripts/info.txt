@@ -1,0 +1,5 @@
+These are basic examples demonstrating LSL and OSSL functions.  All scripts in
+this folder have no restrictions on use or modification.
+
+None of these scripts are actually usefull.  Just starting points or ideas to
+get you going on a script.
